@@ -7,9 +7,9 @@
 
 **Sangmyung University | Undergraduate Coursework**
 
-Linear Algebra I. A course that focuses on teaching the basic concepts and mathematical foundation of linear algebra. And in particular, to focus on the computational algorithms and applications of linear algebra.
+A course focused on teaching the basic concepts and mathematical foundation of linear algebra with particular emphasis on the computational algorithms and applications.
 
-Topics include linear systems, matrix theory, determinants, vector spaces, linear transformation. With applications of scientific computing and artificial intelligence.
+Topics include linear systems, matrix theory, determinants, vector spaces, linear transformation, with applications in scientific computing and artificial intelligence.
 
 ---
 
@@ -25,18 +25,14 @@ Topics include linear systems, matrix theory, determinants, vector spaces, linea
 | Programming Language | Python |
 | Category | Undergraduate Coursework |
 
-## Course Overview
-
-Linear Algebra I. A course that focuses on teaching the basic concepts and mathematical foundation of linear algebra. And in particular, to focus on the computational algorithms and applications of linear algebra.
-Topics include linear systems, matrix theory, determinants, vector spaces, linear transformation. With applications of scientific computing and artificial intelligence.
 
 ## Topics
 
-- **Linear Systems** — Linear equations, Gaussian elimination, and solving the systems
-- **Matrix Operations** — Matrix computing, special matrix
-- **Determinants** — Computing the determinant, propertiess
+- **Linear Systems** — Linear equations, Gaussian elimination, and solving linear systems
+- **Matrix Operations** — Matrix computing, special matrices
+- **Determinants** — Computing the determinant, properties
 - **Matrix Inverse** — Gauss-Jordan Elimination. Inverse using adjugate
-- **Cramer's Rule** — Determinant in solving linear system 
+- **Cramer's Rule** — Using determinants in solving linear system 
 - **Vector Spaces** — Linear combination. Subspace. Linear independence
 - **Basis and Dimension** — Coordinate system, basis vectors, dimension, and rank
 - **Linear Transformations** — Linear mapping. Change of basis
@@ -44,7 +40,7 @@ Topics include linear systems, matrix theory, determinants, vector spaces, linea
 
 ## Programming Assignments
 
-This repository includes Python implementations and programming exercises tasks from course materials.
+This repository includes Python implementations and programming tasks from course materials.
 
 | Week | Theme | Implementation Focus |
 |------|-------|----------------------|
@@ -60,18 +56,17 @@ More implementations and organization will follow.
 
 ## Learning Goals
 
-- Master linear algebra basic and algorithm
-- Programming math formula and computational process with Python
-- Cultivate math thinking and algorithmic solving skill
-- Learning the math basis of machine learning and scientific computing
-- Systematical compilation and archiving of undergraduate programming assignments
+- Master linear algebra concepts and algorithms
+- Implement mathematical formulas and computational processes with Python
+- Develop mathematical thinking and algorithmic solving skills
+- Systematically organize and document undergraduate programming assignments
 
 ## Repository structure
 
-Source code of Python is classified by directory of each assignment.
+Python source code is organized into assignment-specific directories
 
 ## Disclaimer
 
-This repo is just for education and academic document purpose.
+This repo is just for educational and academic purposes.
 
-Code is based on undergraduate courses. It's not meant for numerical computing library production.
+Code is based on undergraduate courses. It's not meant for production use as a numerical computing library
