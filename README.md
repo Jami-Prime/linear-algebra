@@ -48,9 +48,9 @@ This repository includes Python implementations and programming exercises tasks 
 
 | Week | Theme | Implementation Focus |
 |------|-------|----------------------|
-| 5 | Determinants and Matrix Inversion | Determinant computation and matrix inversion |
-| 6 | Inverse Matrices and Cramer's Rule | Inverse by adjugate, Cramer's rule, Linear combination |
-| 7 | Linear Systems | Linear system computation, etc. |
+| 5 |Determinants and Matrix Inversion | Determinant computation and matrix inversion |
+| 6 |Inverse Matrices and Cramer's Rule | Inverse by adjugate, Cramer's rule, Linear combination |
+| 7 |Linear Systems | Linear system computation, etc. |
 More implementations and organization will follow.
 
 ## Technologies
