@@ -7,9 +7,9 @@
 
 **Sangmyung University | Undergraduate Coursework**
 
-A collection of programming assignments and computational exercises completed as part of the **Linear Algebra I** course at Sangmyung University.
+Repository containing programming and computational problems solved in the Linear Algebra I course at Sangmyung University.
 
-This repository documents the implementation of fundamental linear algebra concepts, with an emphasis on mathematical computation, algorithmic problem-solving, and Python programming.
+This repository provides an archive for implementations of basic linear algebra, focusing on mathematical computations, algorithmic problem-solving, and programming with Python.
 
 ---
 
@@ -27,53 +27,51 @@ This repository documents the implementation of fundamental linear algebra conce
 
 ## Course Overview
 
-This course introduces fundamental concepts and mathematical principles of linear algebra, with an emphasis on computational algorithms and practical applications.
-
-The curriculum covers linear systems, matrix theory, determinants, vector spaces, and linear transformations, including their applications in scientific computing and artificial intelligence.
+Linear Algebra I is a course designed to teach fundamental concepts and mathematical foundations in linear algebra, focusing on computational algorithms and applications.
+Key topics include linear systems, matrix theory, determinants, vector spaces, and linear transformations. These topics are applied to scientific computing and artificial intelligence.
 
 ## Topics
 
-- **Linear Systems** — Linear equations, Gaussian elimination, and solution methods
-- **Matrix Operations** — Matrix arithmetic and special matrices
-- **Determinants** — Determinant computation and properties
+- **Linear Systems** — Linear equations, Gaussian elimination, and solution techniques
+- **Matrix Operations** — Matrix calculations and special matrices
+- **Determinants** — Determinant calculation and properties
 - **Matrix Inversion** — Gauss-Jordan elimination and adjugate-based methods
-- **Cramer's Rule** — Solving linear systems using determinants
+- **Cramer's Rule** — Determinants for linear system solutions
 - **Vector Spaces** — Linear combinations, subspaces, and linear independence
-- **Basis and Dimension** — Coordinate systems, basis vectors, dimension, and rank
+- **Basis and Dimension** — Coordinate system, basis vectors, dimension, and rank
 - **Linear Transformations** — Linear mappings and change of basis
 - **Applications** — Markov chains and computational linear algebra
 
 ## Programming Assignments
 
-This repository contains Python implementations and programming exercises based on course materials.
+This repository includes Python implementations and programming exercises tasks from course materials.
 
-| Week | Topic | Implementation Focus |
+| Week | Theme | Implementation Focus |
 |------|-------|----------------------|
 | 5 | Determinants and Matrix Inversion | Determinant computation and matrix inversion |
-| 6 | Inverse Matrices and Cramer's Rule | Adjugate-based inversion, Cramer's rule, and linear combinations |
-| 7 | Linear Systems | Computational methods for solving linear equations |
-
-Additional implementations will be organized and added as the course progresses.
+| 6 | Inverse Matrices and Cramer's Rule | Inverse by adjugate| Linear combinations |
+| 7 | Linear Systems | Linear system computation, etc. |
+More implementations and organization will follow.
 
 ## Technologies
 
-- **Python** — Mathematical computation and algorithm implementation
+- **Python** — Mathematical computation and algorithmic implementation
 - **Git & GitHub** — Version control and repository management
 
-## Learning Objectives
+## Learning Goals
 
-- Understand fundamental linear algebra concepts and algorithms.
-- Implement mathematical formulas and computational procedures in Python.
-- Strengthen mathematical reasoning and algorithmic problem-solving skills.
-- Explore the mathematical foundations of machine learning and scientific computing.
-- Maintain a structured archive of undergraduate programming assignments.
+-Master the fundamentals and algorithms of linear algebra.
+-Program mathematical formulas and computational processes in Python.
+-Develop mathematical thinking and algorithmic problem-solving abilities.
+-Study the mathematical basis of machine learning and scientific computing.
+-Compile and archive undergraduate programming assignments in an organized manner.
 
-## Repository Organization
+## Repository structure
 
-Python source files are organized into directories according to their corresponding assignments and exercises.
+Python source files are grouped into directories corresponding to each assignment
 
 ## Disclaimer
 
-This repository is maintained for educational and academic documentation purposes.
+This repository is maintained solely for educational and academic documentation purposes.
 
-The implementations are based on undergraduate coursework and are not intended to serve as production-ready numerical computing libraries.
+Implementations are derived from undergraduate coursework and are not designed for production-level numerical computation library use.
