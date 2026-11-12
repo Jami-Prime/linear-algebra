@@ -7,9 +7,9 @@
 
 **Sangmyung University | Undergraduate Coursework**
 
-Repository containing programming and computational problems solved in the Linear Algebra I course at Sangmyung University.
+Linear Algebra I. A course that focuses on teaching the basic concepts and mathematical foundation of linear algebra. And in particular, to focus on the computational algorithms and applications of linear algebra.
 
-This repository provides an archive for implementations of basic linear algebra, focusing on mathematical computations, algorithmic problem-solving, and programming with Python.
+Topics include linear systems, matrix theory, determinants, vector spaces, linear transformation. With applications of scientific computing and artificial intelligence.
 
 ---
 
@@ -27,20 +27,20 @@ This repository provides an archive for implementations of basic linear algebra,
 
 ## Course Overview
 
-Linear Algebra I is a course designed to teach fundamental concepts and mathematical foundations in linear algebra, focusing on computational algorithms and applications.
-Key topics include linear systems, matrix theory, determinants, vector spaces, and linear transformations. These topics are applied to scientific computing and artificial intelligence.
+Linear Algebra I. A course that focuses on teaching the basic concepts and mathematical foundation of linear algebra. And in particular, to focus on the computational algorithms and applications of linear algebra.
+Topics include linear systems, matrix theory, determinants, vector spaces, linear transformation. With applications of scientific computing and artificial intelligence.
 
 ## Topics
 
-- **Linear Systems** — Linear equations, Gaussian elimination, and solution techniques
-- **Matrix Operations** — Matrix calculations and special matrices
-- **Determinants** — Determinant calculation and properties
-- **Matrix Inversion** — Gauss-Jordan elimination and adjugate-based methods
-- **Cramer's Rule** — Determinants for linear system solutions
-- **Vector Spaces** — Linear combinations, subspaces, and linear independence
+- **Linear Systems** — Linear equations, Gaussian elimination, and solving the systems
+- **Matrix Operations** — Matrix computing, special matrix
+- **Determinants** — Computing the determinant, propertiess
+- **Matrix Inverse** — Gauss-Jordan Elimination. Inverse using adjugate
+- **Cramer's Rule** — Determinant in solving linear system 
+- **Vector Spaces** — Linear combination. Subspace. Linear independence
 - **Basis and Dimension** — Coordinate system, basis vectors, dimension, and rank
-- **Linear Transformations** — Linear mappings and change of basis
-- **Applications** — Markov chains and computational linear algebra
+- **Linear Transformations** — Linear mapping. Change of basis
+- **Applications** — Markov chains, Computational Linear Algebra
 
 ## Programming Assignments
 
@@ -60,18 +60,18 @@ More implementations and organization will follow.
 
 ## Learning Goals
 
--Master the fundamentals and algorithms of linear algebra.
--Program mathematical formulas and computational processes in Python.
--Develop mathematical thinking and algorithmic problem-solving abilities.
--Study the mathematical basis of machine learning and scientific computing.
--Compile and archive undergraduate programming assignments in an organized manner.
+-Master linear algebra basic and algorithm
+-Programming math formula and computational process with Python
+-Cultivate math thinking and algorithmic solving skill
+-Learning the math basis of machine learning and scientific computing
+-Systematical compilation and archiving of undergraduate programming assignments
 
 ## Repository structure
 
-Python source files are grouped into directories corresponding to each assignment
+Source code of Python is classified by directory of each assignment.
 
 ## Disclaimer
 
-This repository is maintained solely for educational and academic documentation purposes.
+This repo is just for education and academic document purpose.
 
-Implementations are derived from undergraduate coursework and are not designed for production-level numerical computation library use.
+Code is based on undergraduate courses. It's not meant for numerical computing library production.
