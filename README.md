@@ -60,11 +60,11 @@ More implementations and organization will follow.
 
 ## Learning Goals
 
--Master linear algebra basic and algorithm
--Programming math formula and computational process with Python
--Cultivate math thinking and algorithmic solving skill
--Learning the math basis of machine learning and scientific computing
--Systematical compilation and archiving of undergraduate programming assignments
+- Master linear algebra basic and algorithm
+- Programming math formula and computational process with Python
+- Cultivate math thinking and algorithmic solving skill
+- Learning the math basis of machine learning and scientific computing
+- Systematical compilation and archiving of undergraduate programming assignments
 
 ## Repository structure
 
